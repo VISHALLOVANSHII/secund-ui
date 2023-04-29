@@ -1,0 +1,196 @@
+.container {
+   width: 100%;
+   height: 100vh;
+   background-color: brown;
+   /* display: flex;
+   justify-content: center;
+   justify-content: space-between; */
+
+}
+
+.love {
+   width: 100%;
+   height: 110px;
+   display: flex;
+   justify-content: space-between;
+   background-color:salmon ;
+   border-radius:30px ;
+}
+
+.tittle {
+   width: 350px;
+   height: 80px;
+   /* background-color: darkcyan; */
+   margin-left: 150px;
+   margin-top: 20px;
+}
+
+.little h2 img {
+   width: 10px;
+   height: 20px;
+
+
+}
+
+.tittle h2,
+h4 {
+   margin-left: 20px;
+}
+
+.but {
+   width: 150px;
+   height: 50px;
+   /* background-color: aquamarine; */
+   margin-top: 20px;
+}
+
+.but button {
+   width: 70px;
+   height: 40px;
+   border: 2px solid grey;
+   border-radius: 8px;
+
+}
+
+.but :last-child {
+   background-color: palevioletred;
+}
+
+.vishu {
+   width: 80%;
+   height: 120vh;
+background-image: url(./pngtree-abstract-technology-background-technical-electric-image_443494.jpg);
+   margin: 20px;
+   color: white;
+
+   border: 50px solid lightgray;
+   border-color:;
+}
+
+.vishu img {
+   width: 130%;
+   height: 100vh;
+   margin-left: 30px;
+}
+
+.icon {
+   width: 20%;
+
+   display: flex;
+   flex-direction: column;
+
+}
+
+.icon i {
+   margin: 20px;
+   margin-left: 120px;
+   font-size: x-large;
+}
+
+.asdf {
+   display: flex;
+}
+
+nav {
+   width: 100%;
+   height: 30px;
+
+   display: flex;
+   justify-content: space-between;
+}
+
+.my {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   justify-content: space-between;
+}
+
+.my ul {
+   list-style: none;
+   display: flex;
+   margin-left: 190px;
+}
+
+.my li {
+   margin-left: 20px;
+
+}
+
+.tt button {
+   margin-top: 5px;
+   width: 120px;
+   height: 30px;
+   color: white;
+   background-color:orangered;
+   border-radius: 8px;
+}
+
+.large {
+   width: 100%;
+   height: 180px;
+
+
+   margin-top: 20px;
+
+}
+
+.large h1 {
+
+   font-size: 55px;
+   text-align: center;
+}
+
+.large p {
+
+   font-size: 15px;
+   text-align: center;
+}
+
+.pic-section {
+   margin-top: 30px;
+   /* background-color: blue; */
+   width: 100%;
+   height: 300px;
+   display: flex;
+   justify-content: space-between;
+}
+
+.pic-section img {
+   margin: 25px;
+   width: 230px;
+   height: 316px;
+
+   border-radius: 10px;
+
+}
+
+.pic-section button {
+   width: 80px;
+   height: 50px;
+   margin: 30px;
+   background-color: lightgreen;
+   border-radius: 15px;
+}
+
+.btn {
+   width: 220px;
+   height: 350px;
+   /* background-color: chartreuse; */
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+}
+
+.btn img {
+   width: 220px;
+   height: 170px;
+   text-align: center;
+   margin-top: 40px;
+}
+
+.btn button {
+   width: 110px;
+   height: 110px;
+   margin-top: 90px;
+}
